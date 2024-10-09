@@ -2,7 +2,7 @@
 EDK II Project
 ==============
 
-A modern, feature-rich, cross-platform firmware development
+A modern, feature-rich, cross-platform firmware development 
 environment for the UEFI and PI specifications from www.uefi.org.
 
 Core CI Build Status
